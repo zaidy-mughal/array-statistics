@@ -1,0 +1,27 @@
+{
+    "name": "array-statistics",
+    "version": "1.0.1",
+    "description": "Simple array statistical calculations",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "array",
+        "statistics",
+        "math"
+    ],
+    "author": "Zaid Amjad",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zaidy-mughal/array-statistics.git"
+    },
+    "bugs": {
+        "url": "https://github.com/zaidy-mughal/array-statistics/issues"
+    },
+    "homepage": "https://github.com/zaidy-mughal/array-statistics#readme"
+}
